@@ -1,5 +1,7 @@
 # Quantum Prime Scanner
 
+https://zenodo.org/records/17846594
+
 **Experimental Realization of the Inverse Hilbert-Pólya Operator: Physical Sieve for Primes via Spectral Resonance Potential**
 
 This repository contains the computational engine for the paper "Experimental Realization of the Inverse Hilbert-Pólya Operator". It implements a GPU-accelerated Hamiltonian simulation that treats Riemann zeta zeros as input parameters to construct a "Spectral Resonance Potential" (SRP). The system acts as a physical sieve, where prime numbers emerge as stable resonant quantum states.
